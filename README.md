@@ -1,4 +1,4 @@
 # Just a System Museum by PJK. 
 
 
-https://sysmuseum.panjk0518.io/
+https://panjk0518.github.io/
